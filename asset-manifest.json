@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ankurrawat043.github.io/csb-f7wgr0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ankurrawat043.github.io/csb-f7wgr0/static/js/main.266c016d.chunk.js",
+    "main.js.map": "https://ankurrawat043.github.io/csb-f7wgr0/static/js/main.266c016d.chunk.js.map",
+    "runtime-main.js": "https://ankurrawat043.github.io/csb-f7wgr0/static/js/runtime-main.bce309b1.js",
+    "runtime-main.js.map": "https://ankurrawat043.github.io/csb-f7wgr0/static/js/runtime-main.bce309b1.js.map",
+    "static/js/2.f9cd9d9c.chunk.js": "https://ankurrawat043.github.io/csb-f7wgr0/static/js/2.f9cd9d9c.chunk.js",
+    "static/js/2.f9cd9d9c.chunk.js.map": "https://ankurrawat043.github.io/csb-f7wgr0/static/js/2.f9cd9d9c.chunk.js.map",
+    "index.html": "https://ankurrawat043.github.io/csb-f7wgr0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ankurrawat043.github.io/csb-f7wgr0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f9cd9d9c.chunk.js.LICENSE.txt": "https://ankurrawat043.github.io/csb-f7wgr0/static/js/2.f9cd9d9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bce309b1.js",
+    "static/js/2.f9cd9d9c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.266c016d.chunk.js"
+  ]
+}
